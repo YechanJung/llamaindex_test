@@ -1,0 +1,8 @@
+{
+  "local": {
+    "weather": {}
+  },
+  "llamahub": {
+    "wikipedia.WikipediaToolSpec": {}
+  }
+}
